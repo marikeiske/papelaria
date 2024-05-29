@@ -1,0 +1,51 @@
+{
+  "name": "estoque_papelaria",
+  "version": "1.0.0",
+  "description": "Projeto do curso de engenharia de software para o desenvolvimento de um site utilizando HTML, CSS, JavaScript, NodeJS, conexão com banco de dados e com compartilhamento Git e GitHub.",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@chakra-ui/react": "^1.6.10",
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-react": "^7.26.1",
+    "express": "^4.17.1",
+    "express-react-views": "^0.11.0",
+    "express-session": "^1.17.2",
+    "framer-motion": "^4.1.17",
+    "lodash": "^4.17.21",
+    "mysql2": "^2.3.2",
+    "nodemon": "^2.0.14",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nm": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcos-gjr/Estoque_Papelaria.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS",
+    "JavaScript",
+    "SQL",
+    "MYSQL"
+  ],
+  "author": "Marcos Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcos-gjr/Estoque_Papelaria/issues"
+  },
+  "homepage": "https://github.com/Marcos-gjr/Estoque_Papelaria#readme"
+}
